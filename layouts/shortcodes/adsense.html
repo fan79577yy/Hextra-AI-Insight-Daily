@@ -35,8 +35,8 @@
     </div>
     {{- end -}}
 
-    {{- if .Site.Params.wwgg -}}
-    <div class="wwads-cn wwads-vertical wwads-sticky" data-id="{{ .Site.Params.wwgg }}" style="max-width:180px"></div>
-    {{- end -}}
+{{- end -}}
 
+{{- with site.Params.wwgg -}}
+<div class="wwads-cn wwads-vertical wwads-sticky" data-id="{{ . }}" style="max-width:180px"></div>
 {{- end -}}
