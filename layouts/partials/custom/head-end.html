@@ -451,7 +451,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
         function updateIframeUrl() {
             const currentTheme = getTheme();
-            const targetUrl = `${iframeBaseUrl}?theme=${currentTheme}`;
+            const currentUrl = encodeURIComponent(window.location.href);
+            const targetUrl = `${iframeBaseUrl}?theme=${currentTheme}&ru=${currentUrl}`;
             if (iframe.src !== targetUrl) {
                 const loader = document.getElementById('floating-widget-loader');
                 if (loader) loader.style.display = 'flex';
