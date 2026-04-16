@@ -4,23 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### Hexi 2077 / justlovemaki
+#### Hey there, I'm Hexi 2077 / justlovemaki 👋
 
-A decade of code, my fingers cool, a fire in my heart, still unexpressed.
-Then AI's thunder roars, and I'm ready to fight my way to the top.
+> Ten years of coding, cool at the fingertips, yet a fire burns within.
+> Now, hearing the intelligent winds and thunder, I'm ready to fight my battle in the digital skies!
 
 #### My Code Philosophy 💡
 
-> Technology serves the people.
+> Tech for the people, always! 💖
 
-#### Featured Projects ✨
+#### My Portfolio / Cool Projects ✨
 
-*   **[Open-source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    AIClient-2-API is a powerful API proxy service. It wraps client-only large model capabilities, like those from Gemini CLI, Antigravity, Qwen Code, and Kiro, into a local OpenAI-compatible interface. Plus, it handles account pool management, smart polling, automatic failover, and system prompt management like a champ.
-*   **[Open-source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    OpenClaw-Docker-CN-IM is an integrated Docker image packed with OpenClaw's Chinese IM plugins. It comes pre-installed and configured for major Chinese IM platforms like Feishu, DingTalk, QQ Bot, and WeChat Work, letting you quickly deploy a multi-platform AI bot gateway.
-*   For more project details, check out my [GitHub](https://github.com/justlovemaki).
+*   **[Open Source Contribution / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   This bad boy, **AIClient-2-API**, is a powerful API proxy service that *lets you* take client-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro, you name it!) and wrap 'em up into local OpenAI-compatible interfaces. Plus, it's got account pool management, smart polling, automatic failover, and system prompt management baked right in. Pretty neat, huh?
+*   **[Open Source Contribution / OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   Then there's **OpenClaw-Docker-CN-IM**, an integrated Docker image packed with Chinese IM plugins. We're talking pre-installed and pre-configured goodies for all the big players like Feishu, DingTalk, QQ Robot, and WeChat Work. This makes it super easy to spin up multi-platform AI robot gateways in a flash!
+*   Wanna see more cool stuff? Check out my [GitHub](https://github.com/justlovemaki)! 👇
 
-#### Current Explorations 🔭
+#### What I'm Diving Into Now 🌱
 
-I'm super interested in LLM applications and website SEO right now, diving deep into learning and putting it all into practice.
+Right now, I'm totally geeking out over LLM applications and website SEO. I'm diving deep, learning the ropes, and getting my hands dirty with some real-world practice! 🚀
