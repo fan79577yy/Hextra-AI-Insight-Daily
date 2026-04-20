@@ -4,23 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 何夕2077 / justlovemaki
+#### He Xi 2077 / justlovemaki
 
-> A decade of code, fingertips chilled, unspoken frustrations held within.
-> But now, sensing the storm of intelligence gather, I swear to wrestle with the heavens!
+> Ten years coding, my fingertips chilled,
+> A restless spirit, still untold.
+> Then AI's thunder roars, a storm unfurled,
+> I vow to conquer this brave new world!
 
-#### 💡 My Code Philosophy
+#### My Code Philosophy
 
-> Technology serves the people.
+> Tech for the people!
 
-#### 🏆 My Masterpieces
+#### My Top Creations
 
 *   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   This powerful API proxy service encapsulates client-only large language model capabilities (from Gemini CLI, Antigravity, Qwen Code, Kiro, etc.) into local OpenAI-compatible interfaces. It also supports account pool management, intelligent polling, automatic failover, and system prompt management.
+    *   The AIClient-2-API is a robust proxy service that transforms client-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro) into a slick, local OpenAI-compatible interface. On top of that, it boasts account pool management, smart polling, automatic failover, and even system prompt management. Pretty neat, huh?
 *   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   This integrated Docker image for OpenClaw's Chinese IM plugins comes pre-installed and configured with plugins for mainstream Chinese IM platforms such as Feishu, DingTalk, QQ Bot, and WeChat Work. It enables rapid deployment of a multi-platform AI chatbot gateway.
-*   Want more project details? Check out my [GitHub](https://github.com/justlovemaki)!
+    *   Meet the OpenClaw-Docker-CN-IM! This Docker image is packed with integrated OpenClaw China IM plugins. It comes pre-configured for all the big players like Feishu, DingTalk, QQ Bot, and WeChat Work, letting you swiftly deploy a multi-platform AI bot gateway. Super handy for rapid setup!
+*   Wanna dive deeper? Scope out my [GitHub](https://github.com/justlovemaki) for more project deets!
 
 #### 🚀 Current Ventures
 
-I'm super interested in LLM applications and website SEO, and I'm actively diving into learning and practicing these areas.
+Right now, I'm totally hooked on LLM applications and website SEO. I'm deep-diving into learning and getting my hands dirty with some practical stuff!
